@@ -1,5 +1,5 @@
 [package]
-name = "eshiftlib"
+name = "bshift-core"
 version.workspace = true
 edition.workspace = true
 
